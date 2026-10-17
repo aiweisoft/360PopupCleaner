@@ -22,6 +22,14 @@
 
 ---
 
+## 界面预览
+
+| 广告与资讯开关（主界面） | 系统优化 |
+| --- | --- |
+| ![主界面：广告与资讯开关](docs/screenshots/main-window.png) | ![系统优化窗口](docs/screenshots/system-optimize.png) |
+
+---
+
 ## 功能
 
 ### 一、广告与资讯开关（13 项）
